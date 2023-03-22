@@ -11,7 +11,8 @@ In this section, describe the analysis you completed for the machine learning mo
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
 
-*  The purpose of the analysis was to train and evaluate a model based on loan risk. A dataset of historical lending activity from peer-to-peer  lending services company was made available for building a model that helps identify the creditworthiness of borrowers. First i had to read the lending_data.csv data into a Paandas DataFrame after which i created the labels set (y) from the "loan_status" columnn and also created the features (x) DataFrame from the remaining columns. The data was split into training and testing by using train_test_split
+*  The purpose of the analysis was to develop an algorithm that can learn the the patetrns in the dataset and use learningto ,ake predictions. In this applicaiton it was to train and evaluate a model based on loan risk. A dataset of historical lending activity from peer-to-peer  lending services company was made available for building a model that helps identify the creditworthiness of borrowers. First i had to read the lending_data.csv data into a Paandas DataFrame after which i created the labels set (y) from the "loan_status" columnn and also created the features (x) DataFrame from the remaining columns. The data was split into training and testing by using train_test_split.
+*  
 *  The next step involved creating a Logistic Regressin model with the original data. Here fit the logistic regression model using the training data (X_train and y_train). I went on to save the predictions for the testing data labels by using the testingfeature dataa (X_test) and the fitted model. It was crucial to evaljuate the model's performance by doing the following:
      * calculating the accuracy score of the model
      * generating a confusion matrix
