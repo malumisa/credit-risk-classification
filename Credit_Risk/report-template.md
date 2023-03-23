@@ -16,7 +16,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Balanced accuracy score of the model = 95%. This may be attributed to the unbalanced data considering that the number of healthy loans (low-risk) by far exceeds the number og unhealthy loans (high-risk)
 * Precision score = 85%
 * Recall score = 91%
-* 
+
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 
