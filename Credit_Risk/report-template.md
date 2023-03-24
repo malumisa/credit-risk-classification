@@ -13,12 +13,18 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
      
+     <img width="561" alt="image" src="https://user-images.githubusercontent.com/111699427/227403793-75428202-185c-401f-88fc-7ad90bc25f99.png">
+     
+     <img width="807" alt="image" src="https://user-images.githubusercontent.com/111699427/227403864-451246bb-72be-47ba-851c-d0469a99b91f.png">
+
 * Balanced accuracy score of the model = 95%. This may be attributed to the unbalanced data considering that the number of healthy loans (low-risk) by far exceeds the number og unhealthy loans (high-risk)
 * Precision score = 85%
 * Recall score = 91%
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/111699427/227403921-48961258-244f-4660-a6d3-764dffdad258.png">
 
 Balanced accuracy score of the model = 99%. This is higher than for the model fitted with unbalanced data.  We conclude that the oversampled model performs better as it identifies mistakes such as labeling non-healthy (high-risk) loans as healthy (low-risk) 
 
