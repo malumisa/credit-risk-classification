@@ -13,9 +13,9 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
      
-     <img width="561" alt="image" src="https://user-images.githubusercontent.com/111699427/227403793-75428202-185c-401f-88fc-7ad90bc25f99.png">
+ <img width="561" alt="image" src="https://user-images.githubusercontent.com/111699427/227403793-75428202-185c-401f-88fc-7ad90bc25f99.png">
      
-     <img width="807" alt="image" src="https://user-images.githubusercontent.com/111699427/227403864-451246bb-72be-47ba-851c-d0469a99b91f.png">
+ <img width="807" alt="image" src="https://user-images.githubusercontent.com/111699427/227403864-451246bb-72be-47ba-851c-d0469a99b91f.png">
 
 * Balanced accuracy score of the model = 95%. This may be attributed to the unbalanced data considering that the number of healthy loans (low-risk) by far exceeds the number og unhealthy loans (high-risk)
 * Precision score = 85%
